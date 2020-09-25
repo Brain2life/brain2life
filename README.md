@@ -11,7 +11,7 @@ while (me.alive)
 ```
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
 - 🔭 I’m currently working at [JSC "Kazakhtelecom"](https://telecom.kz/en/about/list)
 - 💬 Ask me about Linux and Python 
