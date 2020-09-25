@@ -13,7 +13,7 @@ while (me.alive)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on a [JSC "Kazakhtelecom"](https://telecom.kz/en/about/list)
+- 🔭 I’m currently working at [JSC "Kazakhtelecom"](https://telecom.kz/en/about/list)
 - 💬 Ask me about Linux and Python 
 - 🌱 I’m currently learning Java 
 - 🥅 2020 Goals: Contribute more to Open Source projects
