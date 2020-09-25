@@ -4,9 +4,9 @@
 Person brain2life = newPerson()
 
 while (me.alive):
-  me.wakeUp();
-  me.Eat();
-  me.DoCode();
+  me.wakeUp()
+  me.Eat()
+  me.DoCode()
   me.Sleep()
 ```
 <br/>
