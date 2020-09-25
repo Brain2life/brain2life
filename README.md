@@ -3,7 +3,7 @@
 ```python
 Person brain2life = newPerson()
 
-while (me.alive)
+while (me.alive):
   me.wakeUp();
   me.Eat();
   me.DoCode();
