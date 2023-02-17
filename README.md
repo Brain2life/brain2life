@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/terraform.svg" width="36" height="36" alt="terraform" /></a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/vagrant.svg" width="36" height="36" alt="vagrant" /></a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/helm.svg" width="36" height="36" alt="helm" /></a>
-<a href="https://aws.amazon.com/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/aws.svg" width="36" height="36" alt="aws" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/aws.svg" width="36" height="36" alt="aws" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/grafana.svg" width="36" height="36" alt="grafana" /></a>
 </p>
 
