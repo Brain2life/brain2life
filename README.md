@@ -8,7 +8,7 @@ I'm a DevOps | Systems Engineer
 
 with experience in Cyber Security
 
-* 🌍  I'm based in Almaty
+* 🌍  I'm based in [Almaty](https://en.wikipedia.org/wiki/Almaty)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  I speak five languages: 🇰🇿 Kazakh, 🇷🇺 Russian, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English, 🇪🇸 Spanish, 🇹🇷 Turkish
