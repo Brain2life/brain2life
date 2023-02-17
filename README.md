@@ -24,17 +24,17 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/gnubash.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/js.svg" width="36" height="36" alt="React" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/git.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/ansible.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/docker.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/kubernetes.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/terraform.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/vagrant.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/helm.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://aws.amazon.com/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/aws.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/grafana.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/gnubash.svg" width="36" height="36" alt="bash" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/js.svg" width="36" height="36" alt="javascript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/git.svg" width="36" height="36" alt="git" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/ansible.svg" width="36" height="36" alt="ansible" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/docker.svg" width="36" height="36" alt="docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/kubernetes.svg" width="36" height="36" alt="kubernetes" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/terraform.svg" width="36" height="36" alt="terraform" /></a>
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/vagrant.svg" width="36" height="36" alt="vagrant" /></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/helm.svg" width="36" height="36" alt="helm" /></a>
+<a href="https://aws.amazon.com/ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/aws.svg" width="36" height="36" alt="aws" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/grafana.svg" width="36" height="36" alt="grafana" /></a>
 </p>
 
 ### Socials
