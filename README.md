@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 ### Skills
 
 <p align="left">
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/linux.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/gnubash.svg" width="36" height="36" alt="bash" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/js.svg" width="36" height="36" alt="javascript" /></a>
