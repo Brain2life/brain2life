@@ -40,6 +40,14 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/jenkins.svg" width="36" height="36" alt="jenkins" /></a>
 </p>
 
+### Certificates
+
+<p><a href="https://www.credly.com/badges/d1df8d8e-97e7-43ea-a645-ea2dff0cb415" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/sjBJEmG.png" width="93" height="auto" alt="terraform" /></a>
+<a href="https://www.credly.com/badges/bda53fe6-b31f-482b-a979-d02b25426103" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/7PGUAaK.png" width="100" height="auto" alt="aws_associate" /></a>
+<a href="https://www.credly.com/badges/33918ed0-8cf1-46ec-a5f7-e44fb16b9c82" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/sTJhetI.png" width="105" height="auto" alt="aws_cloud_practitioner" /></a>
+</p>
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Brain2life" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://brain2life.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxat-a-970770151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/maxat_akbanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
