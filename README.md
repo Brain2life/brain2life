@@ -37,6 +37,7 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/aws.svg" width="36" height="36" alt="aws" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/grafana.svg" width="36" height="36" alt="grafana" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/gitlab.svg" width="36" height="36" alt="gitlab" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/jenkins.svg" width="36" height="36" alt="jenkins" /></a>
 </p>
 
 ### Socials
