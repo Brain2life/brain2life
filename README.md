@@ -10,7 +10,7 @@ with experience in Cyber Security
 
 * 🌍  I'm based in <a href="https://en.wikipedia.org/wiki/Almaty" target="_blank">Almaty</a>
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Open Source projects
+* 🤝  I'm open for collaboration on Open Source projects
 * ⚡  I speak five languages: 🇰🇿 Kazakh, 🇷🇺 Russian, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English, 🇪🇸 Spanish, 🇹🇷 Turkish
 
 <a href="https://www.github.com/Brain2life" target="_blank" rel="noreferrer"><img
