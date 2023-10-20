@@ -40,6 +40,11 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Brain2life/skills-icons/master/jenkins.svg" width="36" height="36" alt="jenkins" /></a>
 </p>
 
+### Badges
+
+<p><a href="https://www.credly.com/badges/4adf70cc-0c64-4b65-9e26-44ac73dd5435" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/F797VGP.png" width="93" height="auto" alt="terraform" /></a>
+</p>
+
 ### Certificates
 
 <p><a href="https://www.credly.com/badges/d1df8d8e-97e7-43ea-a645-ea2dff0cb415" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/sjBJEmG.png" width="93" height="auto" alt="terraform" /></a>
@@ -47,7 +52,6 @@ src="https://img.shields.io/github/followers/Brain2life?logo=github&style=for-th
 <a href="https://www.credly.com/badges/33918ed0-8cf1-46ec-a5f7-e44fb16b9c82" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/sTJhetI.png" width="105" height="auto" alt="aws_cloud_practitioner" /></a>
 <a href="https://www.credly.com/badges/4cd548f9-a76a-494d-a0f7-923970e899f3" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/8OChOIt.png" width="105" height="auto" alt="aws_cloud_practitioner" /></a>
 </p>
-
 
 ### Socials
 
